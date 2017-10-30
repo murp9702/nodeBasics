@@ -17,7 +17,3 @@ for (var i=2; i < process.argv.length; i++) {
 
 var sum = arrayOfNumbers.reduce((a, b) => a + b, 0);
 console.log(sum);
-
-// -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-// Part 3
-// -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
